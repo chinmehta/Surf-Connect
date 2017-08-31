@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\6637b306014768d499c21ea4ab04b794ed344fa1\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\6637b306014768d499c21ea4ab04b794ed344fa1\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\6637b306014768d499c21ea4ab04b794ed344fa1\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Sep 01 00:50:39 IST 2017
+base.0=D\:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e4e036f3f6de8d10c95e7ee72f97411a20671f0b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dbd5bc7185517c33380eed411f7db9c0c3e319b2\\classes.dex
+base.1=D\:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dbd5bc7185517c33380eed411f7db9c0c3e319b2
+file.0=D\:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e4e036f3f6de8d10c95e7ee72f97411a20671f0b\\classes.dex

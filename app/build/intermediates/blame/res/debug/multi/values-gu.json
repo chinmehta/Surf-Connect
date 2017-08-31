@@ -1,0 +1,1947 @@
+[
+    {
+        "outputFile": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 238,
+                    "endColumn": 19,
+                    "endOffset": 9129
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 238,
+                        "endColumn": 19,
+                        "endOffset": 9079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 9134,
+                    "endColumn": 94,
+                    "endOffset": 9224
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 9084,
+                        "endColumn": 94,
+                        "endOffset": 9174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 9229,
+                    "endColumn": 80,
+                    "endOffset": 9305
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 9179,
+                        "endColumn": 80,
+                        "endOffset": 9255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 9310,
+                    "endColumn": 80,
+                    "endOffset": 9386
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 9260,
+                        "endColumn": 80,
+                        "endOffset": 9336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 9391,
+                    "endColumn": 85,
+                    "endOffset": 9472
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 9341,
+                        "endColumn": 85,
+                        "endOffset": 9422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 9477,
+                    "endColumn": 85,
+                    "endOffset": 9558
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 9427,
+                        "endColumn": 85,
+                        "endOffset": 9508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 9563,
+                    "endColumn": 83,
+                    "endOffset": 9642
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 9513,
+                        "endColumn": 83,
+                        "endOffset": 9592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 9647,
+                    "endColumn": 84,
+                    "endOffset": 9727
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 9597,
+                        "endColumn": 84,
+                        "endOffset": 9677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 9732,
+                    "endColumn": 77,
+                    "endOffset": 9805
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 9682,
+                        "endColumn": 77,
+                        "endOffset": 9755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 9810,
+                    "endColumn": 73,
+                    "endOffset": 9879
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 9760,
+                        "endColumn": 73,
+                        "endOffset": 9829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 9884,
+                    "endColumn": 105,
+                    "endOffset": 9985
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 9834,
+                        "endColumn": 105,
+                        "endOffset": 9935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 9990,
+                    "endColumn": 93,
+                    "endOffset": 10079
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 9940,
+                        "endColumn": 93,
+                        "endOffset": 10029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 10084,
+                    "endColumn": 77,
+                    "endOffset": 10157
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 10034,
+                        "endColumn": 77,
+                        "endOffset": 10107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 10162,
+                    "endColumn": 97,
+                    "endOffset": 10255
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 10112,
+                        "endColumn": 97,
+                        "endOffset": 10205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 10260,
+                    "endColumn": 120,
+                    "endOffset": 10376
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 10210,
+                        "endColumn": 120,
+                        "endOffset": 10326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 10381,
+                    "endColumn": 152,
+                    "endOffset": 10529
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 4,
+                        "startOffset": 10331,
+                        "endColumn": 152,
+                        "endOffset": 10479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 10534,
+                    "endColumn": 107,
+                    "endOffset": 10637
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 4,
+                        "startOffset": 10484,
+                        "endColumn": 107,
+                        "endOffset": 10587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 10642,
+                    "endColumn": 123,
+                    "endOffset": 10761
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 10592,
+                        "endColumn": 123,
+                        "endOffset": 10711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 10766,
+                    "endColumn": 84,
+                    "endOffset": 10846
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 10716,
+                        "endColumn": 84,
+                        "endOffset": 10796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 10851,
+                    "endColumn": 92,
+                    "endOffset": 10939
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 257,
+                        "startColumn": 4,
+                        "startOffset": 10801,
+                        "endColumn": 92,
+                        "endOffset": 10889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 10944,
+                    "endColumn": 83,
+                    "endOffset": 11023
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 4,
+                        "startOffset": 10894,
+                        "endColumn": 83,
+                        "endOffset": 10973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 11028,
+                    "endColumn": 88,
+                    "endOffset": 11112
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 10978,
+                        "endColumn": 88,
+                        "endOffset": 11062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 11117,
+                    "endColumn": 104,
+                    "endOffset": 11217
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 11067,
+                        "endColumn": 104,
+                        "endOffset": 11167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 11222,
+                    "endColumn": 234,
+                    "endOffset": 11452
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 11172,
+                        "endColumn": 234,
+                        "endOffset": 11402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 11457,
+                    "endColumn": 299,
+                    "endOffset": 11752
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 11407,
+                        "endColumn": 299,
+                        "endOffset": 11702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 11757,
+                    "endColumn": 348,
+                    "endOffset": 12101
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 11707,
+                        "endColumn": 348,
+                        "endOffset": 12051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 12106,
+                    "endColumn": 449,
+                    "endOffset": 12551
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 12056,
+                        "endColumn": 449,
+                        "endOffset": 12501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 12556,
+                    "endColumn": 399,
+                    "endOffset": 12951
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 12506,
+                        "endColumn": 399,
+                        "endOffset": 12901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 12956,
+                    "endColumn": 335,
+                    "endOffset": 13287
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 12906,
+                        "endColumn": 335,
+                        "endOffset": 13237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 13292,
+                    "endColumn": 102,
+                    "endOffset": 13390
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 13242,
+                        "endColumn": 102,
+                        "endOffset": 13340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 13395,
+                    "endColumn": 102,
+                    "endOffset": 13493
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 13345,
+                        "endColumn": 102,
+                        "endOffset": 13443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 13498,
+                    "endColumn": 118,
+                    "endOffset": 13612
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 13448,
+                        "endColumn": 118,
+                        "endOffset": 13562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 13617,
+                    "endColumn": 119,
+                    "endOffset": 13732
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 13567,
+                        "endColumn": 119,
+                        "endOffset": 13682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 13737,
+                    "endColumn": 108,
+                    "endOffset": 13841
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 13687,
+                        "endColumn": 108,
+                        "endOffset": 13791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 13846,
+                    "endColumn": 321,
+                    "endOffset": 14163
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 13796,
+                        "endColumn": 321,
+                        "endOffset": 14113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 14168,
+                    "endColumn": 107,
+                    "endOffset": 14271
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 14118,
+                        "endColumn": 107,
+                        "endOffset": 14221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 14276,
+                    "endColumn": 94,
+                    "endOffset": 14366
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 14226,
+                        "endColumn": 94,
+                        "endOffset": 14316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 14371,
+                    "endColumn": 125,
+                    "endOffset": 14492
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 14321,
+                        "endColumn": 125,
+                        "endOffset": 14442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 14497,
+                    "endColumn": 107,
+                    "endOffset": 14600
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 14447,
+                        "endColumn": 107,
+                        "endOffset": 14550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 14605,
+                    "endColumn": 122,
+                    "endOffset": 14723
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 14555,
+                        "endColumn": 122,
+                        "endOffset": 14673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 14728,
+                    "endColumn": 119,
+                    "endOffset": 14843
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 14678,
+                        "endColumn": 119,
+                        "endOffset": 14793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 14848,
+                    "endColumn": 101,
+                    "endOffset": 14945
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 14798,
+                        "endColumn": 101,
+                        "endOffset": 14895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 14950,
+                    "endColumn": 105,
+                    "endOffset": 15051
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 14900,
+                        "endColumn": 105,
+                        "endOffset": 15001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 15056,
+                    "endColumn": 94,
+                    "endOffset": 15146
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 15006,
+                        "endColumn": 94,
+                        "endOffset": 15096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 15151,
+                    "endColumn": 106,
+                    "endOffset": 15253
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 15101,
+                        "endColumn": 106,
+                        "endOffset": 15203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 15258,
+                    "endColumn": 119,
+                    "endOffset": 15373
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 15208,
+                        "endColumn": 119,
+                        "endOffset": 15323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 15378,
+                    "endColumn": 109,
+                    "endOffset": 15483
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 15328,
+                        "endColumn": 109,
+                        "endOffset": 15433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 15488,
+                    "endColumn": 114,
+                    "endOffset": 15598
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 15438,
+                        "endColumn": 114,
+                        "endOffset": 15548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 15603,
+                    "endColumn": 391,
+                    "endOffset": 15990
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 15553,
+                        "endColumn": 391,
+                        "endOffset": 15940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 15995,
+                    "endColumn": 104,
+                    "endOffset": 16095
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 15945,
+                        "endColumn": 104,
+                        "endOffset": 16045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 16100,
+                    "endColumn": 123,
+                    "endOffset": 16219
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 16050,
+                        "endColumn": 123,
+                        "endOffset": 16169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 16224,
+                    "endColumn": 97,
+                    "endOffset": 16317
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 16174,
+                        "endColumn": 97,
+                        "endOffset": 16267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 16322,
+                    "endColumn": 93,
+                    "endOffset": 16411
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 16272,
+                        "endColumn": 93,
+                        "endOffset": 16361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 16416,
+                    "endColumn": 98,
+                    "endOffset": 16510
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 16366,
+                        "endColumn": 98,
+                        "endOffset": 16460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 16515,
+                    "endColumn": 106,
+                    "endOffset": 16617
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 16465,
+                        "endColumn": 106,
+                        "endOffset": 16567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 16622,
+                    "endColumn": 77,
+                    "endOffset": 16695
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 16572,
+                        "endColumn": 77,
+                        "endOffset": 16645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 16700,
+                    "endColumn": 83,
+                    "endOffset": 16779
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 16650,
+                        "endColumn": 83,
+                        "endOffset": 16729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 16784,
+                    "endColumn": 92,
+                    "endOffset": 16872
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 16734,
+                        "endColumn": 92,
+                        "endOffset": 16822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 16877,
+                    "endColumn": 149,
+                    "endOffset": 17022
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 16827,
+                        "endColumn": 149,
+                        "endOffset": 16972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 17027,
+                    "endColumn": 101,
+                    "endOffset": 17124
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 16977,
+                        "endColumn": 101,
+                        "endOffset": 17074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 17129,
+                    "endColumn": 122,
+                    "endOffset": 17247
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 17079,
+                        "endColumn": 122,
+                        "endOffset": 17197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 17252,
+                    "endColumn": 163,
+                    "endOffset": 17411
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 163,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 17416,
+                    "endColumn": 130,
+                    "endOffset": 17542
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 130,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 17547,
+                    "endColumn": 134,
+                    "endOffset": 17677
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 134,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 17682,
+                    "endColumn": 109,
+                    "endOffset": 17787
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 109,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 17792,
+                    "endColumn": 82,
+                    "endOffset": 17870
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 82,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 17875,
+                    "endColumn": 88,
+                    "endOffset": 17959
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 88,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 17964,
+                    "endColumn": 83,
+                    "endOffset": 18043
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 83,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 18048,
+                    "endColumn": 88,
+                    "endOffset": 18132
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 851,
+                        "endColumn": 88,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 18137,
+                    "endColumn": 92,
+                    "endOffset": 18225
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 92,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 18230,
+                    "endColumn": 114,
+                    "endOffset": 18340
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 114,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 18345,
+                    "endColumn": 108,
+                    "endOffset": 18449
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 108,
+                        "endOffset": 1252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 18454,
+                    "endColumn": 94,
+                    "endOffset": 18544
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1257,
+                        "endColumn": 94,
+                        "endOffset": 1347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 18549,
+                    "endColumn": 94,
+                    "endOffset": 18639
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1352,
+                        "endColumn": 94,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 18644,
+                    "endColumn": 102,
+                    "endOffset": 18742
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endColumn": 102,
+                        "endOffset": 1545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 18747,
+                    "endColumn": 137,
+                    "endOffset": 18880
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1550,
+                        "endColumn": 137,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 18885,
+                    "endColumn": 80,
+                    "endOffset": 18961
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 80,
+                        "endOffset": 1764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 18966,
+                    "endColumn": 83,
+                    "endOffset": 19045
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1769,
+                        "endColumn": 83,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 19050,
+                    "endColumn": 189,
+                    "endOffset": 19235
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 189,
+                        "endOffset": 2038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 19240,
+                    "endColumn": 95,
+                    "endOffset": 19331
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2043,
+                        "endColumn": 95,
+                        "endOffset": 2134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 19336,
+                    "endColumn": 98,
+                    "endOffset": 19430
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2139,
+                        "endColumn": 98,
+                        "endOffset": 2233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 19435,
+                    "endColumn": 115,
+                    "endOffset": 19546
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2238,
+                        "endColumn": 115,
+                        "endOffset": 2349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 19551,
+                    "endColumn": 107,
+                    "endOffset": 19654
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2354,
+                        "endColumn": 107,
+                        "endOffset": 2457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 19659,
+                    "endColumn": 151,
+                    "endOffset": 19806
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2462,
+                        "endColumn": 151,
+                        "endOffset": 2609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 19811,
+                    "endColumn": 109,
+                    "endOffset": 19916
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 105,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 19921,
+                    "endColumn": 197,
+                    "endOffset": 20114
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 389,
+                        "endColumn": 197,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 20119,
+                    "endColumn": 126,
+                    "endOffset": 20241
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 587,
+                        "endColumn": 122,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 20246,
+                    "endColumn": 113,
+                    "endOffset": 20355
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 710,
+                        "endColumn": 109,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 20360,
+                    "endColumn": 196,
+                    "endOffset": 20552
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 820,
+                        "endColumn": 196,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 20557,
+                    "endColumn": 123,
+                    "endOffset": 20676
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1017,
+                        "endColumn": 119,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 20681,
+                    "endColumn": 128,
+                    "endOffset": 20805
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1137,
+                        "endColumn": 124,
+                        "endOffset": 1261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 20810,
+                    "endColumn": 205,
+                    "endOffset": 21011
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\d39e5f1221f6b3205ee8e71924494a4d6eb1f4b1\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 205,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 21016,
+                    "endColumn": 206,
+                    "endOffset": 21218
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1262,
+                        "endColumn": 206,
+                        "endOffset": 1468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 21223,
+                    "endColumn": 109,
+                    "endOffset": 21328
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1469,
+                        "endColumn": 105,
+                        "endOffset": 1574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 21333,
+                    "endColumn": 194,
+                    "endOffset": 21523
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1575,
+                        "endColumn": 194,
+                        "endOffset": 1769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 21528,
+                    "endColumn": 126,
+                    "endOffset": 21650
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1770,
+                        "endColumn": 122,
+                        "endOffset": 1892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 21655,
+                    "endColumn": 201,
+                    "endOffset": 21852
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1893,
+                        "endColumn": 201,
+                        "endOffset": 2094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 21857,
+                    "endColumn": 179,
+                    "endOffset": 22032
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2095,
+                        "endColumn": 175,
+                        "endOffset": 2270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 22037,
+                    "endColumn": 90,
+                    "endOffset": 22123
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2271,
+                        "endColumn": 86,
+                        "endOffset": 2357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 22128,
+                    "endColumn": 95,
+                    "endOffset": 22219
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2358,
+                        "endColumn": 91,
+                        "endOffset": 2449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 22224,
+                    "endColumn": 110,
+                    "endOffset": 22330
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\ed210d1ce74578dd7fad5f61e9b1f79a0bf4acb3\\output\\res\\values-gu\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2450,
+                        "endColumn": 106,
+                        "endOffset": 2556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 22335,
+                    "endColumn": 60,
+                    "endOffset": 22391
+                },
+                "from": {
+                    "file": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\values-gu\\values-gu.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2614,
+                        "endColumn": 60,
+                        "endOffset": 2670
+                    }
+                }
+            }
+        ]
+    }
+]

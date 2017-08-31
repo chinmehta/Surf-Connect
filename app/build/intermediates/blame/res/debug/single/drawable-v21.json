@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\com_accountkit_input_cursor.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\abf9eeb603d6fe300abb4121cd6b43787277aa57\\output\\res\\drawable-v21\\com_accountkit_input_cursor.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\71f8bab0d45b235d874e07bf2b14923532178e84\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\71f8bab0d45b235d874e07bf2b14923532178e84\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\d85456c76f917aa805f70ce078c091e1034d4623\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\d85456c76f917aa805f70ce078c091e1034d4623\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\71f8bab0d45b235d874e07bf2b14923532178e84\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\71f8bab0d45b235d874e07bf2b14923532178e84\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\d85456c76f917aa805f70ce078c091e1034d4623\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\d85456c76f917aa805f70ce078c091e1034d4623\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
