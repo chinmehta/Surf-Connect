@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Shenron\\.android\\build-cache\\616e67d4741ae184798962d4a0781e4554303f3a\\output\\res\\color\\com_facebook_send_button_text_color.xml"
     },
     {
-        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\Shenron\\.android\\build-cache\\d85456c76f917aa805f70ce078c091e1034d4623\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
         "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "C:\\Users\\Shenron\\.android\\build-cache\\d85456c76f917aa805f70ce078c091e1034d4623\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Shenron\\.android\\build-cache\\d85456c76f917aa805f70ce078c091e1034d4623\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "D:\\Work\\Projects\\Android\\Surf Connect\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
